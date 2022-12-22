@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Cup of water</string>
+
+    <!-- Preference Titles -->
+
+    <!-- Messages Preferences -->
+
+    <!-- Sync Preferences -->
+
+    <string-array name="activity">
+        <item>1 час</item>
+        <item>2 часа</item>
+        <item>3 часа</item>
+        <item>4 часа</item>
+        <item>5 часов</item>
+        <item>6 часов</item>
+        <item>7 часов</item>
+    </string-array>
+</resources>
